@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 19 13:58:02 2023
-
-@author: henry
-"""
 
 
 
